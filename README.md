@@ -13,22 +13,17 @@ Completed a simulated data analysis project for Electricité Verte, a French ren
 - <b>Excel formulas</b>
 
 <h2>Project</h2>
-<p align="center">
-Rock, Paper, Scissors Game: Randomisation and Python Lists: <br/>
-<img src="https://i.postimg.cc/g0zj8Frs/Screenshot-2025-11-24-at-19-10-52.png"/>
-<br />
-<br />
-<img src="https://i.postimg.cc/nhgp2XFm/Screenshot-2025-11-24-at-19-11-22.png"/>
-<br />
-<br />
-<img src="https://i.postimg.cc/q72qCssQ/Screenshot-2025-11-24-at-19-12-49.png"/>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+- <b>Combined two datasets using XLOOKUP to match customer information with energy readings. </b>
+- <b>Cleaned and validated data, correcting negative values and addressing 281 missing gas readings.</b>
+- <b>Used Excel formulas, sorting and filtering to calculate annual expenditure, averages and yearly changes.</b>
+- <b>Identified a 5.99% increase in gas expenditure and a 3.75% increase in electricity expenditure between 2020 and 2021.</b>
+
+<h2>Files</h2>
+
+- <b>Data Source 1_customer readings.xlsx - Original customer energy expenditure data</b> 
+- <b>Data Source 2_customer info.xlsx - Customer information, including bedrooms, suppliers and solar panels</b>
+- <b>Completed.xlsx - Completed data analysis workbook</b>
+- <b>ElectriciteVerte_DataAnalysisandValidation - Additional analysis and validation workbook</b>
+- <b>Data Gathering Complete.docx - Data gathering and integration</b>
+- <b>Data Analysis and Validation.docx - Documentation of data cleaning, validation and analysis</b>
