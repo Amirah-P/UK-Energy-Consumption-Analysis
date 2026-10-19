@@ -1,4 +1,4 @@
-<h1>UK Energy Consumption Analysis</h1>
+<h1>UK Energy Expenditure Analysis</h1>
 
 <h2>Description</h2>
 Completed a simulated data analysis project for Electricité Verte, a French renewable energy supplier exploring expansion into the UK market. Analysed two years of customer energy expenditure data (2020-2021) across 100 households to provide insights to support business planning.
